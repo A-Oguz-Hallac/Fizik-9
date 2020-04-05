@@ -47,8 +47,7 @@
 
 - Butter(50g): 358kcal
 
--Dark Chocolate(80g): 437kcal
-
--Flour(1/2 Cup):228kcal
+- Dark Chocolate(80g): 437kcal
+- Flour(1/2 Cup):228kcal
 
 
