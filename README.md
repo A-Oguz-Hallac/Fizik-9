@@ -56,7 +56,7 @@
 
 
 ## Beden Kütle İndeksi
-### ------------Kilo-------Boy-------BKİ-------Durum
+### ------------Kilo--------Boy-------BKİ-------Durum
 - Ablam____59kg________172cm_______19.94_________Normal
 - Babam___100kg_______192cm_______27.32_________Fazla Kilolu
 - Annem___62kg________164cm_______23,05_________Normal
