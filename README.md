@@ -50,8 +50,7 @@
 
 - Total:                1167kcal
 
-![Chocolate Souffle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yemeksefi.com%2Fyemek-tarifi%2Fcikolatali-sufle-tarifi&psig=AOvVaw0iZ_c3rCLFO4PC3mKL18cA&ust=1586194169295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi_tPTn0egCFQAAAAAdAAAAABAD
-)
+![Chocolate Souffle](https://www.yemeksefi.com/wp-content/uploads/2015/08/%C3%87ikolatal%C4%B1-Sufle-1140x500.jpg)
 
 
 
