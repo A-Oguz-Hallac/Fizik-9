@@ -6,7 +6,7 @@
 - 80g Bitter Çikolata
 - Yarım Su Bardağı Un
 - 1 Çimdik Tuz
--50g Tereyağı
+- 50g Tereyağı
 
 ## Hazırlanışı:
 1-Tarife başlamadan önce fırınızı 220 dereceye kadar ısıtın.
