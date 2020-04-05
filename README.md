@@ -9,9 +9,9 @@
 -50g Tereyağı
 
 ## Hazırlanışı:
-**1-** Tarife başlamadan önce fırınızı 220 dereceye kadar ısıtın.
+1-Tarife başlamadan önce fırınızı 220 dereceye kadar ısıtın.
 
-2-Tereyağı ve bitter çikolataları bir tavada eritin. Eridikten sonra unu ilave edin ve karıştırın.
+2-Tereyağı ve bitter çikolataları bir tavada eritin.Eridikten sonra unu ilave edin ve karıştırın.
 
 3-Bir kapta yumurta ve şekeri çırpın. Daha sonra tuzu ekleyip çırpmaya devam edin.
 
