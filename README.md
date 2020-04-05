@@ -6,7 +6,7 @@
 - 80g Bitter Çikolata
 - Yarım Su Bardağı Un
 - 1 Çimdik Tuz
-- 50g Tereyağı
+-50g Tereyağı
 
 ## Hazırlanışı:
 1-Tarife başlamadan önce fırınızı 220 dereceye kadar ısıtın.
@@ -29,7 +29,7 @@
 - 80 grams of Dark Chocolate
 - 1/2 Cup of Flour
 - A Pinch of Salt
-- 50 grams of Butter
+-50 grams of Butter
 ## Recipe:
 1-Before starting, heat your oven to 220 degrees.
 
@@ -57,7 +57,7 @@
 
 ## Beden Kütle İndeksi
 ### ------------Kilo-------Boy-------BKİ-------Durum
-- Ablam____59__________172_________19.94_________Normal
-- Babam___100_________192_________27.32_________Fazla Kilolu
-- Annem___62__________164__________23,05_________Normal
-- Ben_______82__________187__________23,45_________Normal
+- Ablam____59kg________172cm_______19.94_________Normal
+- Babam___100kg_______192cm_______27.32_________Fazla Kilolu
+- Annem___62kg________164cm________23,05_________Normal
+- Ben_______82kg________187cm________23,45_________Normal
