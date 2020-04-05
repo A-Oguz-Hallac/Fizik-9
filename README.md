@@ -8,7 +8,7 @@
 - 1 Çimdik Tuz
 
 ## Hazırlanışı:
-Çikolatalı sufle yapmaya başlamadan önce İlk olarak fırını 220 derecede çalıştırın.
+1- Çikolatalı sufle yapmaya başlamadan önce İlk olarak fırını 220 derecede çalıştırın.
 Tereyağı ve bitter çikolataları teflon tavada kısık ateşte karıştırarak eritin. Eridikten sonra ocağı kapatarak unu ilave edin ve iyice karıştırın.
 Ayrı bir kapta yumurta ve şekeri karışım beyazlayana kadar çırpın. Şeker tadının ön plana çıkması için tuzu ekleyip çırpın.
 Çikolatalı harcı ilave ederek mikserle tekrar çırpın. Hamurumuz hazır.
