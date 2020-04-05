@@ -29,7 +29,7 @@
 - 80 grams of Dark Chocolate
 - 1/2 Cup of Flour
 - A Pinch of Salt
--50 grams of Butter
+- 50 grams of Butter
 ## Recipe:
 1-Before starting, heat your oven to 220 degrees.
 
