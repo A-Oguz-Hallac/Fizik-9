@@ -1,4 +1,4 @@
-# Fizik-9
+# Fizik-9 Ahmet Oğuz Hallaç 9-B 75
 
 ## Çikolatalı Sufle Tarifi
 ### Malzemeler:
