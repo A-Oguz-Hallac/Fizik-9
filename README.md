@@ -57,4 +57,4 @@
 
 
 ## Vücut Kütle İndeksi
-### Kilo         ### Boy
+### Kilo________________Boy
