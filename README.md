@@ -43,9 +43,12 @@
 
 6-Put them into the preheated oven and bake it for 7-8 minutes. After the baking procces wait for couple minutes for it to cool down. It is ready to serve.
 
-2 Eggs: 144kcal
-Butter(50g): 358kcal
-Dark Chocolate(80g): 437kcal
-Flour(1/2 Cup):228kcal
+- 2 Eggs: 144kcal
+
+- Butter(50g): 358kcal
+
+-Dark Chocolate(80g): 437kcal
+
+-Flour(1/2 Cup):228kcal
 
 
